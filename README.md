@@ -33,23 +33,6 @@ The To-Do App is an Android application developed as part of my internship at Pr
 - Android Studio installed on your development machine.
 - Basic understanding of Java programming and Android development concepts.
 
-### Setting Up the Project
-
-1. **Clone the repository**:
-
-    ```sh
-    git clone https://github.com/TapanTalukdar004/PRODIGY_AD_02.git
-    cd PRODIGY_AD_02
-    ```
-
-2. **Open the project in Android Studio**:
-   - Launch Android Studio.
-   - Select "Open an existing Android Studio project."
-   - Navigate to the directory where you cloned the repository and select the `PRODIGY_AD_02` folder.
-
-3. **Run the app**:
-   - Connect an Android device or use an emulator.
-   - Click on the "Run" button in Android Studio to build and install the app on your device.
 
 ### Usage
 
